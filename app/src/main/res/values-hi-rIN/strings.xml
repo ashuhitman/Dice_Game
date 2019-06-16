@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">पासा</string>
+    <string name="button_text">रोल</string>
+    <string name="description_button">बटन को रोल करें</string>
+</resources>
